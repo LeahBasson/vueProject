@@ -1,6 +1,6 @@
 {
     "jobTitle": [
-        "Junior Developer"  
+        "Junior Developer"     
     ],
 
     "about":[
@@ -9,6 +9,7 @@
 
     "resume":[
         { 
+            "id": 1,
             "Bachelor’s Pass: Matric": "Alexander Sinton High School - Athlone, Cape Town, 2022",
             "Certificate of Higher Education: Microsoft IT Academy": "College Of Cape Town - Cape Town South Africa, 2023",
             "Currently Studying at Life Choices Coding Academy":"Lansdowne, Cape Town, 2024"
@@ -17,6 +18,7 @@
 
     "Three Highest Scoring Subjects": [
         {
+            "id": 2,
             "Life Orientation": "80%",
             "Business Studies": "74%",
             "Afrikaans": "72%"
@@ -25,6 +27,7 @@
 
     "skills":[
     {
+        "id": 3,
         "HTML 5 : Intermediate": "My understanding of html is that its used to layout your website. I can comfortably use html5 hence why I feel that I am at an intermediate level. I know how to apply the html5 elements and attributes.",
         "CSS : Intermediate":"CSS is used to style the layout of your web pages. I am good at using CSS to make aesthetically pleasing websites.",
         "Bootstrap : Intermediate":"Bootstrap is a CSS framework used to make responsive websites. I am able to achieve responsive websites using bootstrap.",
@@ -35,74 +38,109 @@
 
     "projects":[
         {
+            "id": 4,
             "projectName":"Island",
             "description":"Island with dragons from How To Train A Dragon Movie with night background.",
-            "img_url": "https://leahbasson.github.io/MyImages/images/Island.png"
+            "img_url": "https://leahbasson.github.io/MyImages/images/Island.png",
+            "gitHub":"https://github.com/LeahBasson/islandArtwork.git",
+            "vercel": "https://island-artwork.vercel.app"
         },
         {
+            "id": 5,
             "projectName":"Home Decor Logo",
             "description":"Logo for Home Decor website called Serene Decor. The slogan is 'mi Casa su Casa' which means my home is your home.",
-            "img_url":"https://leahbasson.github.io/MyImages/images/HomeDecorLogo2.png"
+            "img_url":"https://leahbasson.github.io/MyImages/images/HomeDecorLogo2.png",
+            "gitHub":"https://github.com/LeahBasson/homeDecor.git",
+            "vercel":"https://home-decor-neon.vercel.app"
         },
         {
+            "id": 6,
             "projectName":"Cinema Logo",
             "description":"Logo for Cinema Website called Movie Block that I made last year at College Of Cape Town using Visual Studio.",
-            "img_url": "https://leahbasson.github.io/MyImages/images/MovieLogo.png"
+            "img_url": "https://leahbasson.github.io/MyImages/images/MovieLogo.png",
+            "gitHub":"https://github.com/LeahBasson/cinemaLogo.git",
+            "vercel":"https://cinema-logo.vercel.app"
         },
         {
+            "id": 7,
             "projectName":"Sun Eco Travel Logo",
             "description":"Logo for a travelling website.",
-            "img_url":"https://leahbasson.github.io/MyImages/images/sun-eco-travel-logo.png"
+            "img_url":"https://leahbasson.github.io/MyImages/images/sun-eco-travel-logo.png",
+            "gitHub":"https://github.com/LeahBasson/sunEcoLogo.git",
+            "vercel":"https://sun-eco-logo.vercel.app"
         },
         {
+            "id": 8,
             "projectName":"Aqua",
             "description": "Text Effect with liquid.",
-            "img_url": "https://leahbasson.github.io/MyImages/images/Aqua.png"
+            "img_url": "https://leahbasson.github.io/MyImages/images/Aqua.png",
+            "gitHub":"https://github.com/LeahBasson/aqua.git",
+            "vercel":"https://aqua-black.vercel.app"
         },
         {
+            "id": 9,
             "projectName":"Boy and sand",
             "description":"Playing around with text in Adobe Photoshop.",
-            "img_url":"https://leahbasson.github.io/MyImages/images/boyAndSand.png"
+            "img_url":"https://leahbasson.github.io/MyImages/images/boyAndSand.png",
+            "gitHub":"https://github.com/LeahBasson/boyAndSand.git",
+            "vercel":"https://boy-and-sand.vercel.app"
         },
         {
+            "id": 10,
             "projectName":"Easter",
             "description":"This was made in Adobe Photoshop.",
-            "img_url":"https://leahbasson.github.io/MyImages/images/easter.png"
+            "img_url":"https://leahbasson.github.io/MyImages/images/easter.png",
+            "gitHub":"https://github.com/LeahBasson/easter.git",
+            "vercel":"https://easter-jet.vercel.app"
         },
         {
+            "id": 11,
             "projectName":"Takealot Redesign",
             "description":"I was assigned a task to remake the Takealot Logo.",
-            "img_url":"https://leahbasson.github.io/MyImages/images/logo for task.jpg"
+            "img_url":"https://leahbasson.github.io/MyImages/images/logo for task.jpg",
+            "gitHub":"https://github.com/LeahBasson/takealot.git",
+            "vercel":"https://takealot-coral.vercel.app"
         },
         {
+            "id": 12,
             "projectName":"Golden Grills Advert",
             "description":"I designed an advert for my brother's market day.",
-            "img_url":"https://leahbasson.github.io/MyImages/images/tAdvert.png"
+            "img_url":"https://leahbasson.github.io/MyImages/images/tAdvert.png",
+            "gitHub":"https://github.com/LeahBasson/tAdvert.git",
+            "vercel":"https://t-advert.vercel.app"
         },
         {
+            "id": 13,
             "projectName":"Calculator",
             "description":"I was assigned a task to make a calculator using only css and html , no javascript.",
-            "img_url":"https://leahbasson.github.io/MyImages/images/Calculator.png"
+            "img_url":"https://leahbasson.github.io/MyImages/images/Calculator.png",
+            "gitHub":"https://github.com/LeahBasson/Calculator.git",
+            "vercel":"https://calculator-gold-chi.vercel.app"
         }
     ],
    
     "testimonials":[{
+        "id": 14,
         "Jamin":"Leah is a remarkably hardworking individual. Her dedication to her tasks is truly unparalleled. She approaches every project with a level of enthusiasm and commitment that is both inspiring and infectious. In the time I have known her, she has consistently demonstrated an exceptional work ethic and determination. Leah's hard work, dedication, and positive attitude are qualities that anyone would admire. AND I THINK SHE IS THEE MOST BEAUTIFUL.",
         "Name": "Jamin Langeveldt"
     } ,
     {
+        "id": 15,
         "Joel":"Leah Basson is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with her peers and excels at working on project assignments. She has acquired various skills and tools, including HTML5, CSS3, Bootstrap, VS Code, and wireframe. I am pleased to introduce her as an exceptional candidate and developer.",
         "Name":"Joel Mukanya"
     } , 
     {
+        "id": 16,
         "Katelin":"I have always found Leah to be knowledgable and hardworking. She has a keen eye for design and willing to put in the time to make things perfect. She has a can do, will do, action-orientated manner which will bring benefit to anyone she works with.",
         "Name":"Katelin Bock"
     } , 
     {
+        "id": 17,
         "Tarryn":"Leah has always been someone that could adapt to the learning pace, always coming up with new ideas and thriving in wanting to know more.",
         "Name":"Tarryn Arendse"
     },
     {
+        "id": 18,
         "Zoe":"Leah Basson has a great talent for development. She always has great ideas and suggestions, her work is always done to the best of her ability.",
         "Name": "Zoë Saaiers"
     }
