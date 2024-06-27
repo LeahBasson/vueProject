@@ -7,66 +7,38 @@
        "My name is Leah Basson and I’m excited to invite you to explore and get to know more about me. I am from South Africa, Cape Town. In 2023, I studied Microsoft IT Academy at College of Cape Town. I am currently studying at Life Choices Coding Academy. I love developing and designing websites. I am very diligent and focused. I design and develop websites to the best of my ability. I am highly motivated and I welcome challenges. I’m always willing to learn new things and I am a team player. I work well on my own as well. I am currently a model at Exposé fashion show."
     ],
 
-    "resume": [
-       {
+    "resume":[
+        { 
             "id": 1,
-            "certificate1": "Bachelor’s Pass: Matric",
-            "place1": "Alexander Sinton High School - Athlone, Cape Town, 2022"
-        },
-        {
-            "id": 2,
-            "certificate2": "Certificate of Higher Education: Microsoft IT Academy",
-            "place2": "College Of Cape Town - Cape Town South Africa, 2023"
-        },
-        {
-            "id": 3,
-            "certificate3": "Currently Studying at Life Choices Coding Academy",
-            "place3": "Lansdowne, Cape Town, 2024"
+            "Bachelor’s Pass: Matric": "Alexander Sinton High School - Athlone, Cape Town, 2022",
+            "Certificate of Higher Education: Microsoft IT Academy": "College Of Cape Town - Cape Town South Africa, 2023",
+            "Currently Studying at Life Choices Coding Academy":"Lansdowne, Cape Town, 2024"
         }
     ],
 
-    "subjects": [
+    "Three Highest Scoring Subjects": [
         {
-            "id": 1,
-            "title": "Three Highest Scoring Subjects:",
-            "subject1": "Life Orientation - 80%",
-            "subject2": "Business Studies - 74%",
-            "subject3":"Afrikaans - 72%"
+            "id": 2,
+            "Life Orientation": "80%",
+            "Business Studies": "74%",
+            "Afrikaans": "72%"
         }
     ],
 
     "skills":[
     {
-        "id": 1,
-        "title":"HTML 5 : Intermediate",
-        "skill1":"My understanding of html is that its used to layout your website. I can comfortably use html5 hence why I feel that I am at an intermediate level. I know how to apply the html5 elements and attributes."
-    },
-    {
-        "id": 2,
-        "title":"CSS : Intermediate",
-        "skill2":"CSS is used to style the layout of your web pages. I am good at using CSS to make aesthetically pleasing websites."
-        
-    },
-    {
-        "id":3,
-        "title":"Bootstrap : Intermediate",
-        "skill3":"Bootstrap is a CSS framework used to make responsive websites. I am able to achieve responsive websites using bootstrap."
-    },
-    {
-        "id": 4,
-        "title":"Adobe Photoshop: Advanced",
-        "skill4":"Photoshop is used by editors to crop photos, correct lighting, create collages, layer images together and lots more. I have created logos, digital artwork and advertisements using photoshop.",
-    },
-    {
-        "id":5,
-        "title":"Figma: Advanced",
-        "skill5":"Figma is easy to navigate. I can comfortably use it like a pro."
-    }
+        "id": 3,
+        "HTML 5 : Intermediate": "My understanding of html is that its used to layout your website. I can comfortably use html5 hence why I feel that I am at an intermediate level. I know how to apply the html5 elements and attributes.",
+        "CSS : Intermediate":"CSS is used to style the layout of your web pages. I am good at using CSS to make aesthetically pleasing websites.",
+        "Bootstrap : Intermediate":"Bootstrap is a CSS framework used to make responsive websites. I am able to achieve responsive websites using bootstrap.",
+        "Adobe Photoshop: Advanced":"Photoshop is used by editors to crop photos, correct lighting, create collages, layer images together and lots more. I have created logos, digital artwork and advertisements using photoshop.",
+        "Figma: Advanced":"Figma is easy to navigate. I can comfortably use it like a pro."
+    }    
     ],
 
     "projects":[
         {
-            "id": 1,
+            "id": 4,
             "projectName":"Island",
             "description":"Island with dragons from How To Train A Dragon Movie with night background.",
             "img_url": "https://leahbasson.github.io/MyImages/images/Island.png",
@@ -74,7 +46,7 @@
             "vercel": "https://island-artwork.vercel.app"
         },
         {
-            "id": 2,
+            "id": 5,
             "projectName":"Home Decor Logo",
             "description":"Logo for Home Decor website called Serene Decor. The slogan is 'mi Casa su Casa' which means my home is your home.",
             "img_url":"https://leahbasson.github.io/MyImages/images/HomeDecorLogo2.png",
@@ -82,7 +54,7 @@
             "vercel":"https://home-decor-neon.vercel.app"
         },
         {
-            "id": 3,
+            "id": 6,
             "projectName":"Cinema Logo",
             "description":"Logo for Cinema Website called Movie Block that I made last year at College Of Cape Town using Visual Studio.",
             "img_url": "https://leahbasson.github.io/MyImages/images/MovieLogo.png",
@@ -90,7 +62,7 @@
             "vercel":"https://cinema-logo.vercel.app"
         },
         {
-            "id": 4,
+            "id": 7,
             "projectName":"Sun Eco Travel Logo",
             "description":"Logo for a travelling website.",
             "img_url":"https://leahbasson.github.io/MyImages/images/sun-eco-travel-logo.png",
@@ -98,7 +70,7 @@
             "vercel":"https://sun-eco-logo.vercel.app"
         },
         {
-            "id": 5,
+            "id": 8,
             "projectName":"Aqua",
             "description": "Text Effect with liquid.",
             "img_url": "https://leahbasson.github.io/MyImages/images/Aqua.png",
@@ -106,7 +78,7 @@
             "vercel":"https://aqua-black.vercel.app"
         },
         {
-            "id": 6,
+            "id": 9,
             "projectName":"Boy and sand",
             "description":"Playing around with text in Adobe Photoshop.",
             "img_url":"https://leahbasson.github.io/MyImages/images/boyAndSand.png",
@@ -114,7 +86,7 @@
             "vercel":"https://boy-and-sand.vercel.app"
         },
         {
-            "id": 7,
+            "id": 10,
             "projectName":"Easter",
             "description":"This was made in Adobe Photoshop.",
             "img_url":"https://leahbasson.github.io/MyImages/images/easter.png",
@@ -122,7 +94,7 @@
             "vercel":"https://easter-jet.vercel.app"
         },
         {
-            "id": 8,
+            "id": 11,
             "projectName":"Takealot Redesign",
             "description":"I was assigned a task to remake the Takealot Logo.",
             "img_url":"https://leahbasson.github.io/MyImages/images/logo for task.jpg",
@@ -130,7 +102,7 @@
             "vercel":"https://takealot-coral.vercel.app"
         },
         {
-            "id": 9,
+            "id": 12,
             "projectName":"Golden Grills Advert",
             "description":"I designed an advert for my brother's market day.",
             "img_url":"https://leahbasson.github.io/MyImages/images/tAdvert.png",
@@ -138,7 +110,7 @@
             "vercel":"https://t-advert.vercel.app"
         },
         {
-            "id": 10,
+            "id": 13,
             "projectName":"Calculator",
             "description":"I was assigned a task to make a calculator using only css and html , no javascript.",
             "img_url":"https://leahbasson.github.io/MyImages/images/Calculator.png",
@@ -148,27 +120,27 @@
     ],
    
     "testimonials":[{
-        "id": 1,
+        "id": 14,
         "Jamin":"Leah is a remarkably hardworking individual. Her dedication to her tasks is truly unparalleled. She approaches every project with a level of enthusiasm and commitment that is both inspiring and infectious. In the time I have known her, she has consistently demonstrated an exceptional work ethic and determination. Leah's hard work, dedication, and positive attitude are qualities that anyone would admire. AND I THINK SHE IS THEE MOST BEAUTIFUL.",
         "Name": "Jamin Langeveldt"
     } ,
     {
-        "id": 2,
+        "id": 15,
         "Joel":"Leah Basson is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with her peers and excels at working on project assignments. She has acquired various skills and tools, including HTML5, CSS3, Bootstrap, VS Code, and wireframe. I am pleased to introduce her as an exceptional candidate and developer.",
         "Name":"Joel Mukanya"
     } , 
     {
-        "id": 3,
+        "id": 16,
         "Katelin":"I have always found Leah to be knowledgable and hardworking. She has a keen eye for design and willing to put in the time to make things perfect. She has a can do, will do, action-orientated manner which will bring benefit to anyone she works with.",
         "Name":"Katelin Bock"
     } , 
     {
-        "id": 4,
+        "id": 17,
         "Tarryn":"Leah has always been someone that could adapt to the learning pace, always coming up with new ideas and thriving in wanting to know more.",
         "Name":"Tarryn Arendse"
     },
     {
-        "id": 5,
+        "id": 18,
         "Zoe":"Leah Basson has a great talent for development. She always has great ideas and suggestions, her work is always done to the best of her ability.",
         "Name": "Zoë Saaiers"
     }
