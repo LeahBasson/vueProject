@@ -25,12 +25,13 @@
         }
     ],
 
-    "Three Highest Scoring Subjects": [
+    "subjects": [
         {
-            "id": 2,
-            "Life Orientation": "80%",
-            "Business Studies": "74%",
-            "Afrikaans": "72%"
+            "id": 1,
+            "title":"Three Highest Scoring Subjects:",
+            "subject1": "Life Orientation - 80%",
+            "subject2":  "Business Studies - 74%",
+            "subject3": "Afrikaans - 72%" 
         }
     ],
 
