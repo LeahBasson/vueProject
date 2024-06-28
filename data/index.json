@@ -37,13 +37,10 @@
 
     "skills":[
     {
-        "id": 3,
-        "HTML 5 : Intermediate": "My understanding of html is that its used to layout your website. I can comfortably use html5 hence why I feel that I am at an intermediate level. I know how to apply the html5 elements and attributes.",
-        "CSS : Intermediate":"CSS is used to style the layout of your web pages. I am good at using CSS to make aesthetically pleasing websites.",
-        "Bootstrap : Intermediate":"Bootstrap is a CSS framework used to make responsive websites. I am able to achieve responsive websites using bootstrap.",
-        "Adobe Photoshop: Advanced":"Photoshop is used by editors to crop photos, correct lighting, create collages, layer images together and lots more. I have created logos, digital artwork and advertisements using photoshop.",
-        "Figma: Advanced":"Figma is easy to navigate. I can comfortably use it like a pro."
-    }    
+        "id": 1,
+        "title":"HTML 5 : Intermediate",
+        "description": "My understanding of html is that its used to layout your website. I can comfortably use html5 hence why I feel that I am at an intermediate level. I know how to apply the html5 elements and attributes.",
+    }
     ],
 
     "projects":[
